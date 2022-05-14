@@ -1,18 +1,18 @@
 <h1 align="center">Joe Hladnik</h1>
 <a href="https://www.joehladnik.com/" rel="nofollow">
-<img src="https://camo.githubusercontent.com/6028855d0293465fee09b993185cb5feb85cfa027a14a79df3a9de72e9b5451c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5745425349544526636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d7265616374266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&message=Website&color=260794&style=plastic&logo=react&logo-color=white" style="max-width: 100%;">
+<img src="https://img.shields.io/static/v1?label=|&message=Website&color=260794&style=plastic&logo=react&logo-color=white" style="max-width: 100%;">
 </a>
 <a href="https://www.linkedin.com/in/joe-hladnik" rel="nofollow">
 <img src="https://img.shields.io/static/v1?label=|&message=LinkedIn&color=2a5db5&style=plastic&logo=linkedin&logo-color=white" style="max-width: 100%;">
 </a>
 <a href="https://twitter.com/jomadicsoul" rel="nofollow">
-<img src="https://camo.githubusercontent.com/aa0e268b31cb26cfc48e67f7014a9be187877bf7dafe4f46cf4e6f076e1af1ac/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4c494e4b45442d494e26636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d6c696e6b6564696e266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&message=Twitter&color=4691dd&style=plastic&logo=twitter&logo-color=white" style="max-width: 100%;">
+<img src="https://img.shields.io/static/v1?label=|&message=Twitter&color=4691dd&style=plastic&logo=twitter&logo-color=white" style="max-width: 100%;">
 </a>
 <a href="https://discord.gg/Dreamin0904#3413" rel="nofollow">
-<img src="https://camo.githubusercontent.com/aa0e268b31cb26cfc48e67f7014a9be187877bf7dafe4f46cf4e6f076e1af1ac/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4c494e4b45442d494e26636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d6c696e6b6564696e266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&message=Discord&color=565fde&style=plastic&logo=discord&logo-color=white" style="max-width: 100%;">
+<img src="https://img.shields.io/static/v1?label=|&message=Discord&color=565fde&style=plastic&logo=discord&logo-color=white" style="max-width: 100%;">
 </a>
 <a href="https://www.joehladnik.com/JoeHladnik-sResume.pdf" rel="nofollow">
-<img src="https://camo.githubusercontent.com/aa0e268b31cb26cfc48e67f7014a9be187877bf7dafe4f46cf4e6f076e1af1ac/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4c494e4b45442d494e26636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d6c696e6b6564696e266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&message=Resume&color=0ec6eb&style=plastic&logo=react&logo-color=white" style="max-width: 100%;">
+<img src="https://img.shields.io/static/v1?label=|&message=Resume&color=0ec6eb&style=plastic&logo=react&logo-color=white" style="max-width: 100%;">
 </a>
 <p dir="auto">"Throughout my life, I have always enjoyed solving problems, fixing things, and figuring out creative ways to make things more efficient. I am a full-stack software engineer from Illinois looking to bring my passion and skillset to the world."</p>
 
