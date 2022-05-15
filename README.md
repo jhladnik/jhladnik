@@ -64,7 +64,7 @@ GLBS
 </h3>
 <br>
 <a align="center" dir="auto" href="https://glbs.netlify.app/" rel="nofollow">
-<img align="center" dir="auto" src="#websiteTwoGif" width="100%" alt="Picture of Grayslake Barber Shop Homepage" style="max-width: 100%;">
+<img align="center" dir="auto" src="https://media.giphy.com/media/9bzkwNrtpUCujsJR9W/giphy.gif" width="100%" alt="Picture of Grayslake Barber Shop Homepage" style="max-width: 100%;">
 </a>
 <br>
 <p align="center" dir="auto">
