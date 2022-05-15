@@ -37,7 +37,7 @@ WALL TO WALL BUILD & DESIGN
 </h3>
 <br>
 <a align="center" dir="auto" href="https://wall-to-wall.netlify.app/" rel="nofollow">
-<img align="center" dir="auto" src="" width="100%" alt="screenshot of wall to wall's landing page" style="max-width: 100%;">
+<img align="center" dir="auto" src="https://media.giphy.com/media/tLamyfEBv7DFX9OzXs/giphy.gif" width="100%" alt="screenshot of wall to wall's landing page" style="max-width: 100%;">
 </a>
 <br>
 <p align="center" dir="auto">
