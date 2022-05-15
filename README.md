@@ -23,10 +23,10 @@
 </a>
 Projects
 </h1>
-<table>
-<tbody>
+<!-- <table> -->
+<!-- <tbody>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top"> -->
 <h3 align="center" dir="auto">
 <a id="user-content-#" class="anchor" aria-hidden="true" href="https://wall-to-wall.netlify.app/">
 <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
@@ -52,8 +52,8 @@ WALL TO WALL BUILD & DESIGN
 <strong>Javascript, SCSS, CSS, HTML</strong>
 <br>
 Web application built for a client to boost traffic to their business as well as showcase their construction and remodel capabilities
-</td>
-<td width="50%" valign="top">
+<!-- </td>
+<td width="50%" valign="top"> -->
 <h3 align="center" dir="auto">
 <a id="user-content-#" class="anchor" aria-hidden="true" href="#websiteTwo">
 <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
@@ -78,10 +78,10 @@ Web application built for a client to boost traffic to their business as well as
 <p align="center" dir="auto">
 <strong>#description of tech used</strong>
 "#Description of Website Two"
-</td>
+<!-- </td>
 </tr>
 <tr>
-<td width="100%" valign="top">
+<td width="100%" valign="top"> -->
 <h3 align="center" dir="auto">
 <a id="user-content-#" class="anchor" aria-hidden="true" href="#screenshotOfHomePage">
 <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
@@ -90,10 +90,10 @@ Web application built for a client to boost traffic to their business as well as
 </a>
 "Joe Hladnik Web Development"
 </h3>
-</td>
+<!-- </td>
 </tr>
 </tbody>
-</table>
+</table> -->
 <h1 align="center" dir="auto">
 <a id="user-content-languages-and-tools" class="anchor" aria-hidden="true" href="#languagesAndTools">
 <svg class="octicon octicon-link" viewBox="0 0 32 16" version="1.1" width="32" height="16" aria-hidden="true">
