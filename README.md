@@ -141,11 +141,11 @@ Languages and Tools
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  </a>
   <a href="https://graphql.org/" target="_blank" rel="noreferrer">
     <img src="https://graphql.org/img/logo.svg" alt="graphql logo" width="40" height="40"/> 
-  </a> 
+  </a>
+   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql logo" width="40" height="40"/> 
+  </a>
  </p>
 
