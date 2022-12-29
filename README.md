@@ -25,6 +25,34 @@ Projects
 </h1>
 
 <h2 align="center" dir="auto">
+  <a id="user-content-#" class="anchor" aria-hidden="true" href="https://digibilt-build.netlify.app/">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+      <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0         004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5         2.5a3.5 3.5 0 004.95 4.95l1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path>
+    </svg>
+  </a>
+Digibilt - Building Simplified. Building Digitized.
+</h2>
+<br>
+  <p align="center" dir="auto">
+    <a align="center" dir="auto" href="https://digibilt-build.netlify.app/" rel="nofollow">
+      <img align="center" dir="auto" src="https://media.giphy.com/media/wYzH0O5XTUICvrLYZN/giphy.gif" width="100%" alt="Picture of Digibilt site build web app" style="max-width: 100%;">
+    </a>
+  </p>
+<br>
+  <p align="center" dir="auto">
+    <a href="https://github.com/jhladnik/digibiltSiteBuild">
+      <img src="https://img.shields.io/static/v1?label=|&message=Repo&color=060a0a&style=plastic&logo=github&logo-color=white" style="max-width: 100%;">
+    </a>
+    <a href="https://digibilt-build.netlify.app/">
+      <img src="https://img.shields.io/static/v1?label=|&message=Website&color=260794&style=plastic&logo=react&logo-color=white" style="max-width: 100%;">
+    </a>
+  </p>
+  <p align="center" dir="auto">
+  <strong>Javascript, CSS, SCSS, HTML</strong>
+<br>
+    Web application built to showcase completed work and works in progress along with methods of contact and resume
+
+<h2 align="center" dir="auto">
   <a id="user-content-#" class="anchor" aria-hidden="true" href="https://wall-to-wall.netlify.app/">
     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
       <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0         004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5         2.5a3.5 3.5 0 004.95 4.95l1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path>
@@ -79,34 +107,6 @@ GLBS
   <strong>Javascript, CSS, SCSS, HTML</strong>
 <br>
  Client website built to allow customers to visit other links for the business, make appointments, and learn more about the shop
-
-<h2 align="center" dir="auto">
-  <a id="user-content-#" class="anchor" aria-hidden="true" href="https://www.joehladnik.com/">
-    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-      <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0         004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5         2.5a3.5 3.5 0 004.95 4.95l1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path>
-    </svg>
-  </a>
-Joe Hladnik Web Development
-</h2>
-<br>
-  <p align="center" dir="auto">
-    <a align="center" dir="auto" href="https://www.joehladnik.com/" rel="nofollow">
-      <img align="center" dir="auto" src="https://media.giphy.com/media/pMJK6M6Ajz7LAJKG9i/giphy.gif" width="100%" alt="Picture of Joe Hladnik Web                Development      Homepage" style="max-width: 100%;">
-    </a>
-  </p>
-<br>
-  <p align="center" dir="auto">
-    <a href="https://github.com/jhladnik/joeHladnikWebDevelopment">
-      <img src="https://img.shields.io/static/v1?label=|&message=Repo&color=060a0a&style=plastic&logo=github&logo-color=white" style="max-width: 100%;">
-    </a>
-    <a href="https://www.joehladnik.com/">
-      <img src="https://img.shields.io/static/v1?label=|&message=Website&color=260794&style=plastic&logo=react&logo-color=white" style="max-width: 100%;">
-    </a>
-  </p>
-  <p align="center" dir="auto">
-  <strong>Javascript, CSS, SCSS, HTML</strong>
-<br>
-    Web application built to showcase completed work and works in progress along with methods of contact and resume
 
 <h1 align="center" dir="auto">
   <a id="user-content-languages-and-tools" class="anchor" aria-hidden="true" href="#languagesAndTools">
