@@ -50,7 +50,7 @@ Digibilt - Building Simplified. Building Digitized.
   <p align="center" dir="auto">
   <strong>Javascript, CSS, SCSS, HTML</strong>
 <br>
-    Web application built to showcase completed work and works in progress along with methods of contact and resume
+    Web application built for construction tech startup, Digibilt, Inc., to showcase their product and capabilities to the public.
 
 <h2 align="center" dir="auto">
   <a id="user-content-#" class="anchor" aria-hidden="true" href="https://wall-to-wall.netlify.app/">
