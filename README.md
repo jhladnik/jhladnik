@@ -9,9 +9,9 @@
     <a href="https://twitter.com/jomadicsoul" rel="nofollow">
       <img align="center" src="https://img.shields.io/static/v1?label=|&message=Twitter&color=4691dd&style=plastic&logo=twitter&logo-color=white"                 style="max-width: 100%;">
     </a>
-    <a href="https://www.joehladnik.com/Joe_Hladnik_-_Full_Stack_Software_Developer.pdf" rel="nofollow">
+<!--     <a href="https://www.joehladnik.com/Joe_Hladnik_-_Full_Stack_Software_Developer.pdf" rel="nofollow">
       <img align="center" src="https://img.shields.io/static/v1?label=|&message=Resume&color=0ec6eb&style=plastic&logo=react&logo-color=white" style="max-          width: 100%;">
-    </a>
+    </a> -->
   </p>
   <p align="center" dir="auto">Throughout my life, I have always enjoyed solving problems, fixing things, and figuring out creative ways to make things more efficient. I am a full-stack software engineer from Illinois looking to bring my passion and skillset to the world.</p>
 
