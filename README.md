@@ -1,7 +1,7 @@
 <h1 align="center">Joe Hladnik</h1>
   <p align="center" dir="auto">
     <a href="https://www.joehladnik.com/" rel="nofollow">
-      <img align="center" src="https://img.shields.io/static/v1?label=|&message=Website&color=260794&style=plastic&logo=react&logo-color=white"                    style="max-width: 100%;">
+      <img align="center" src="https://img.shields.io/static/v1?label=|&message=Website&color=260794&style=plastic"                    style="max-width: 100%;">
     </a>
     <a href="https://www.linkedin.com/in/joe-hladnik" rel="nofollow">
       <img align="center" src="https://img.shields.io/static/v1?label=|&message=LinkedIn&color=2a5db5&style=plastic&logo=linkedin&logo-color=white"               style="max-width: 100%;">
@@ -41,7 +41,7 @@ DIGIBILT - BUILDING SIMPLIFIED. BUILDING DIGITIZED.
       <img src="https://img.shields.io/static/v1?label=|&message=Repo&color=060a0a&style=plastic&logo=github&logo-color=white" style="max-width: 100%;">
     </a>
     <a href="https://digibilt-build.netlify.app/">
-      <img src="https://img.shields.io/static/v1?label=|&message=Website&color=260794&style=plastic&logo=react&logo-color=white" style="max-width: 100%;">
+      <img src="https://img.shields.io/static/v1?label=|&message=Website&color=260794&style=plastic" style="max-width: 100%;">
     </a>
   </p>
   <p align="center" dir="auto">
@@ -69,7 +69,7 @@ DUBBLE DOSE
       <img src="https://img.shields.io/static/v1?label=|&message=Repo&color=060a0a&style=plastic&logo=github&logo-color=white" style="max-width: 100%;">
     </a>
     <a href="https://dubbledose.herokuapp.com/">
-      <img src="https://img.shields.io/static/v1?label=|&message=Website&color=260794&style=plastic&logo=react&logo-color=white" style="max-width: 100%;">
+      <img src="https://img.shields.io/static/v1?label=|&message=Website&color=260794&style=plastic" style="max-width: 100%;">
     </a>
   </p>
   <p align="center" dir="auto">
@@ -97,7 +97,7 @@ WALL TO WALL BUILD & DESIGN
       <img src="https://img.shields.io/static/v1?label=|&message=Repo&color=060a0a&style=plastic&logo=github&logo-color=white" style="max-width: 100%;">
     </a>
     <a href="https://wall-to-wall.netlify.app/">
-      <img src="https://img.shields.io/static/v1?label=|&message=Website&color=260794&style=plastic&logo=react&logo-color=white" style="max-width: 100%;">
+      <img src="https://img.shields.io/static/v1?label=|&message=Website&color=260794&style=plastic" style="max-width: 100%;">
     </a>
   </p>
   <p align="center" dir="auto">
