@@ -6,9 +6,6 @@
     <a href="https://www.linkedin.com/in/joe-hladnik" rel="nofollow">
       <img align="center" src="https://img.shields.io/static/v1?label=|&message=LinkedIn&color=2a5db5&style=plastic&logo=linkedin&logo-color=white"               style="max-width: 100%;">
     </a>
-    <a href="https://twitter.com/jomadicsoul" rel="nofollow">
-      <img align="center" src="https://img.shields.io/static/v1?label=|&message=Twitter&color=4691dd&style=plastic&logo=twitter&logo-color=white"                 style="max-width: 100%;">
-    </a>
 <!--     <a href="https://www.joehladnik.com/Joe_Hladnik_-_Full_Stack_Software_Developer.pdf" rel="nofollow">
       <img align="center" src="https://img.shields.io/static/v1?label=|&message=Resume&color=0ec6eb&style=plastic&logo=react&logo-color=white" style="max-          width: 100%;">
     </a> -->
