@@ -10,7 +10,7 @@
       <img align="center" src="https://img.shields.io/static/v1?label=|&message=Resume&color=0ec6eb&style=plastic&logo=react&logo-color=white" style="max-          width: 100%;">
     </a> -->
   </p>
-  <p align="center" dir="auto">Throughout my life, I have always enjoyed solving problems, fixing things, and figuring out creative ways to make things more efficient. I am a full-stack software engineer from Illinois looking to bring my passion and skillset to the world.</p>
+  <p align="center" dir="auto">Throughout my life, I have always enjoyed solving problems, fixing things, and figuring out creative ways to make things more efficient. I am a full-stack software engineer looking to bring my passion and skillset to the world.</p>
 
 <h1 align="center" dir="auto">
   <a id="user-content-projects" class="anchor" aria-hidden="true" href="#projects">
