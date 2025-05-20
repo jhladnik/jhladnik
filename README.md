@@ -113,8 +113,19 @@ WALL TO WALL BUILD & DESIGN
   </a>
 Languages and Tools
 </h1>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<p align="center">
+  <a href="https://pptr.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-icon.svg" alt="Puppeteer" width="40" height="40"/> 
+  </a>
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.vectorlogo.zone/logos/threejs/images/3453d6aa-b9c2-48b3-b2c1-97aa80b5525e.svg" alt="three.js" width="40" height="40"/> 
+  </a>
+  <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/playwright.svg" alt="Playwright" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   </a>
